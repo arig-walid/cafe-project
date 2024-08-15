@@ -50,7 +50,7 @@
         nav ul {
             display: flex;
             justify-content: space-around;
-            gap: 200%;
+            gap: 100%;
         }
         nav ul li a {
         display: block;
