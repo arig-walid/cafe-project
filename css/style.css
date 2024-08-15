@@ -69,7 +69,7 @@
         border-bottom: 2px solid white; 
         }
         header {
-            background-image: url(/images/interior-shot-cafe-with-chairs-near-bar-with-wooden-tables.jpg);
+            background-image: url(https://github.com/arig-walid/cafe-project/blob/main/images/interior-shot-cafe-with-chairs-near-bar-with-wooden-tables.jpg?raw=true);
             background-size: cover;
             height: 600px;
         }
